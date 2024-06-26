@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/bin/Debug/net7.0/TimeConversion
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/bin/Debug/net7.0/TimeConversion.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/bin/Debug/net7.0/TimeConversion.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/bin/Debug/net7.0/TimeConversion.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/bin/Debug/net7.0/TimeConversion.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/TimeConversion.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/TimeConversion.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/TimeConversion.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/TimeConversion.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/TimeConversion.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/refint/TimeConversion.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/TimeConversion.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/TimeConversion.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/TimeConversion/TimeConversion/TimeConversion/obj/Debug/net7.0/ref/TimeConversion.dll
